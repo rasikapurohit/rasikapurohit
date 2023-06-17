@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Algorithm Visualizer
 - 🌱 I’m currently learning Data Structures and Algorithms
 
-
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/645518da05999de060bb0c1a?variant=dark" alt="roadmap.sh"/></a>
 
