@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-5E5E5E?logo=openid&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json%20web%20tokens&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 <!-- ## 🚀 Featured Projects  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rasikapurohit&repo=roadmap.sh)](https://github.com/rasikapurohit/roadmap.sh) --> 
